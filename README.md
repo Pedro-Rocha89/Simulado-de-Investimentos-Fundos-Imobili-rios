@@ -7,7 +7,7 @@
 ## Descrição do Projeto
 O projeto tem como objetivo desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
-# 🔨 Funcionalidades 
+## 🔨 Funcionalidades 
 - `Inserção de nomes`: Os nomes são inseridos no campo "Digite um nome", para a confirmação e adicionamento do nome é necessário a pertar o botão "Adicionar".
   
   ![image](https://github.com/user-attachments/assets/18d01d9f-72dc-4b32-8ea2-1f6f3feeaf60)
@@ -32,12 +32,12 @@ O projeto tem como objetivo desenvolver uma aplicação que permita aos usuário
 
 
 
-# Ferramentas e Aplicativos Utilizados
+## Ferramentas e Aplicativos Utilizados
 
 - ``Java``
 - ``VS code``
 - ``Trello``
 
 
-# Desenvolvedores
+## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201495780?s=96&v=4" width=115><br><sub>Pedro Rocha</sub>](https://github.com/Pedro-Rocha89)
