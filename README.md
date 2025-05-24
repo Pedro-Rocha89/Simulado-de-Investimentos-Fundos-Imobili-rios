@@ -9,13 +9,15 @@ O projeto consiste na criação de uma ferramenta simples em Excel para simular 
 
 
 ## 📑 Etapas
-- Criação da Logo 
-A criação da logo foi feita pelo Gemini (IA da Google). Criei a minha própria com a finalidade de simular uma demanda real de um futuro cliente, ou seja, uma simulador personalizado.
+- `Criação da Logo`: 
+A criação da logo foi feita pelo Gemini (IA da Google). Criei a minha própria logo com a finalidade de simular uma demanda real de um futuro cliente, ou seja, uma simulador personalizado.
 
-- Criação da tabela de inserção de dados inicial
+- `Criação da tabela de inserção de dados`: 
 Nessa etapa comecei a estilizar e a desenvolver a planilha que receberá os dados principais do usuário. Realizei tambem a formatação de cada campo dos dados.
+![image](https://github.com/user-attachments/assets/3f65f52c-4a71-47b1-b4f2-bfa4df185f97)
 
-## 🔨 Funcionalidades 
+
+## 🖩 Fórmulas/Funções utilizadas 
 - `Inserção de nomes`: Os nomes são inseridos no campo "Digite um nome", para a confirmação e adicionamento do nome é necessário a pertar o botão "Adicionar".
   
   ![image](https://github.com/user-attachments/assets/18d01d9f-72dc-4b32-8ea2-1f6f3feeaf60)
