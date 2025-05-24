@@ -5,7 +5,8 @@
 
 
 ## Descrição do Projeto
-O projeto tem como objetivo desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+O projeto consiste na criação de uma ferramenta simples em Excel para simular investimentos em fundos imobiliários. A planilha permite calcular o valor total investido, o patrimônio acumulado e os dividendos mensais, ajudando o usuário a entender melhor o impacto de seus investimentos ao longo do tempo. Este modelo pode ser usado como base para futuras expansões e personalizações, oferecendo uma solução prática e acessível para investidores iniciantes.
+
 
 ## 🔨 Funcionalidades 
 - `Inserção de nomes`: Os nomes são inseridos no campo "Digite um nome", para a confirmação e adicionamento do nome é necessário a pertar o botão "Adicionar".
