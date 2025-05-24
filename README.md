@@ -1,6 +1,7 @@
 # Simulador de Investimentos em Fundos Imobiliarios
 
-![image](https://github.com/user-attachments/assets/397867a4-081e-4832-a05c-dd40ec598e33)
+![image](https://github.com/user-attachments/assets/ea448f0b-e654-49a7-8a0f-a232cf3b23d7)
+
 
 
 # Descrição do Projeto
