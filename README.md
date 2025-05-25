@@ -30,7 +30,7 @@ Nessa etapa foram criadas duas tabelas consultivas: uma para a consulta do tipo 
 
 ## 🖩 Fórmulas/Funções utilizadas 
 - `Valor Futuro`: 
-Para o cálculo do montante/patrimônio acumulado, foi utilizada a fórmula do "Valor Futuro"(=VF). A fórmula é utilizada para investimento a juros compostos com aportes mensais. As entrada exigidas, nesta ordem, são: taxa, período* e aporte mensal.
+Para o cálculo do montante/patrimônio acumulado, foi utilizada a fórmula do **"Valor Futuro"(=VF)**. A fórmula é utilizada para investimento a juros compostos com aportes mensais. As entrada exigidas, nesta ordem, são: taxa, período* e aporte mensal.
 
 **A tabela de inserção de dados pede o valor do período em anos e a função de valor futuro reconhece o dado como mês, por isso foi preciso aplicar o fator de multiplicação vezes 12(doze) para que o cálculo fosse correto.*
   
