@@ -14,8 +14,19 @@ A criação da logo foi feita pelo Gemini (IA da Google). Criei a minha própria
 
 - `Criação da tabela de inserção de dados`: 
 Nessa etapa comecei a estilizar e a desenvolver a planilha que receberá os dados principais do usuário. Realizei tambem a formatação de cada campo dos dados.
-![image](https://github.com/user-attachments/assets/3f65f52c-4a71-47b1-b4f2-bfa4df185f97)
 
+![image](https://github.com/user-attachments/assets/461c93f4-42e6-41c3-990b-840ca3b87a6f)
+
+
+- `Criação da tabela de projeção`:
+Trata-se de uma tabela calculada que projeta os valores do montante do investimento ao final de uma quantidade de anos pré-determinada.
+
+![image](https://github.com/user-attachments/assets/67d842f3-4f7e-40ae-a553-5948d949b2af)
+
+- `Criação de tabelas consultivas`:
+Nessa etapa foram criadas duas tabelas consultivas: uma para a consulta do tipo do fundo imobiliário e outra para o perfil de investidor.
+
+![image](https://github.com/user-attachments/assets/15dd4860-5784-43af-ab62-74e437eedbea)
 
 ## 🖩 Fórmulas/Funções utilizadas 
 - `Inserção de nomes`: Os nomes são inseridos no campo "Digite um nome", para a confirmação e adicionamento do nome é necessário a pertar o botão "Adicionar".
