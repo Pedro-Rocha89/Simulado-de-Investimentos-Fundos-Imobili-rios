@@ -29,29 +29,22 @@ Nessa etapa foram criadas duas tabelas consultivas: uma para a consulta do tipo 
 ![image](https://github.com/user-attachments/assets/15dd4860-5784-43af-ab62-74e437eedbea)
 
 ## 🖩 Fórmulas/Funções utilizadas 
-- `Inserção de nomes`: Os nomes são inseridos no campo "Digite um nome", para a confirmação e adicionamento do nome é necessário a pertar o botão "Adicionar".
-  
-  ![image](https://github.com/user-attachments/assets/18d01d9f-72dc-4b32-8ea2-1f6f3feeaf60)
+- `Valor Futuro`: 
+Para o cálculo do montante/patrimônio acumulado, foi utilizada a fórmula do "Valor Futuro"(=VF). A fórmula é utilizada para investimento a juros compostos com aportes mensais. As entrada exigidas, nesta ordem, são: taxa, período* e aporte mensal.
 
+**A tabela de inserção de dados pede o valor do período em anos e a função de valor futuro reconhece o dado como mês, por isso foi preciso aplicar o fator de multiplicação vezes 12(doze) para que o cálculo fosse correto.*
+  
+ 
 
 
 - `Proteção contra erros`: Caso nenhum nome seja inserido e o botão "Adicionar" seja apertado, a aplicação exibirá o erro "Por favor, digite um nome válido", impedindo que o programa rode sem os dados corretos.
 
-  ![image](https://github.com/user-attachments/assets/107e9e43-4beb-4c11-b548-18b9ea46bee6)
-
-
 
 - `Transparência`: Todos os nomes inseridos serão exibidos em uma lista visível na página da aplicação.
-
-  ![image](https://github.com/user-attachments/assets/8059f565-3e60-4814-a2ab-456ba56d5665)
   
-
 
 - `Sorteio`: Ao clicar no botão "Sortear amigo", um nome aleatório será sorteado e apresentado.
   
-  ![image](https://github.com/user-attachments/assets/bbb1618e-bd3b-47f1-8a83-d33cb61fdebb)
-
-
 
 ## Ferramentas e Aplicativos Utilizados
 
