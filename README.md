@@ -28,6 +28,13 @@ Nessa etapa foram criadas duas tabelas consultivas: uma para a consulta do tipo 
 
 ![image](https://github.com/user-attachments/assets/15dd4860-5784-43af-ab62-74e437eedbea)
 
+- `Análise gráfica de acordo com o perfil`:
+Foi criada uma tabela com sugestão de percentuais de fundos imobiliários de acordo com o perfil de investidor. O investidor seleciona o seu perfil (conservador, moderado ou agressivo) e uma lista de percentuais em função do tipo de fundo é sugerida automaticamente.
+
+Ao lado é possivel visualizar um gráfico do tipo pizza que demonstra a distribuição do percentual de cada tipo de fundo imobiliário.
+
+![image](https://github.com/user-attachments/assets/99f8c57a-190b-4afa-905e-503cfbbb6e95)
+
 ## 🖩 Fórmulas/Funções utilizadas 
 - `Valor Futuro`: 
 Para o cálculo do montante/patrimônio acumulado, foi utilizada a fórmula do **"Valor Futuro"(=VF)**. A fórmula é utilizada para investimento a juros compostos com aportes mensais. As entrada exigidas, nesta ordem, são: taxa, período* e aporte mensal.
